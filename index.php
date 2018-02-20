@@ -23,8 +23,8 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>chaa gaye Vikas!!!</h1>
-        <p>Your AWS Elastic Beanstalk PHP application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <h1>Very Well Done Megha!!!</h1>
+        <p>Your AWS Elastic Beanstalk PHP application is now running on your own dedicated environment in the AWS Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
 
